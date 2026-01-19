@@ -70,9 +70,19 @@ for quiz_num in range(35):
     random.shuffle(states)
 
     for num in range(50):
-        correct_answers = capitals[states[num]]
+        correct_answer = capitals[states[num]]
         wrong_answers = list(capitals.values())
-        del wrong_answers[wrong_answers.index(correct_answers)]
+        del wrong_answers[wrong_answers.index(correct_answer)]
         wrong_answers = random.sample(wrong_answers, 3)
-        answers_option = wrong_answers + [correct_answers]
-        random.shuffle(answers_option)
+        answer_options = wrong_answers + [correct_answer]
+        random.shuffle(answer_options)
+
+        quiz_file.write(f"{num+1}. Capital of {states[num]}:\n")
+        for i in range(4):
+            quiz_file.write(f"    {'ABCD'[i]}. {answer_options[i]}\n")
+        quiz_file.write('\n')
+
+        answer_file.write(f"{num+1}.{'ABCD'[answer_options.index(correct_answer)]}\n")
+
+    quiz_file.close()
+    answer_file.close()

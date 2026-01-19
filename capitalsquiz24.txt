@@ -1,0 +1,310 @@
+
+
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form24)
+
+1. Capital of Louisiana:
+    A. Frankfort
+    B. Concord
+    C. Raleigh
+    D. Baton Rouge
+
+2. Capital of Georgia:
+    A. Santa Fe
+    B. Tallahassee
+    C. Juneau
+    D. Atlanta
+
+3. Capital of Kansas:
+    A. Providence
+    B. Topeka
+    C. Salem
+    D. Dover
+
+4. Capital of New York:
+    A. Helena
+    B. Albany
+    C. Carson City
+    D. Salt Lake City
+
+5. Capital of Oregon:
+    A. Salem
+    B. Phoenix
+    C. Pierre
+    D. Saint Paul
+
+6. Capital of Alabama:
+    A. Montgomery
+    B. Juneau
+    C. Trenton
+    D. Boise
+
+7. Capital of Ohio:
+    A. Columbus
+    B. Olympia
+    C. Carson City
+    D. Richmond
+
+8. Capital of Maryland:
+    A. Juneau
+    B. Annapolis
+    C. Springfield
+    D. Dover
+
+9. Capital of Nebraska:
+    A. Augusta
+    B. Providence
+    C. Lincoln
+    D. Bismarck
+
+10. Capital of Pennsylvania:
+    A. Atlanta
+    B. Juneau
+    C. Springfield
+    D. Harrisburg
+
+11. Capital of Indiana:
+    A. Baton Rouge
+    B. Raleigh
+    C. Indianapolis
+    D. Austin
+
+12. Capital of Vermont:
+    A. Montpelier
+    B. Annapolis
+    C. Raleigh
+    D. Juneau
+
+13. Capital of New Hampshire:
+    A. Indianapolis
+    B. Concord
+    C. Tallahassee
+    D. Sacramento
+
+14. Capital of Illinois:
+    A. Santa Fe
+    B. Springfield
+    C. Olympia
+    D. Sacramento
+
+15. Capital of Washington:
+    A. Phoenix
+    B. Olympia
+    C. Helena
+    D. Cheyenne
+
+16. Capital of Michigan:
+    A. Springfield
+    B. Austin
+    C. Lansing
+    D. Baton Rouge
+
+17. Capital of New Mexico:
+    A. Santa Fe
+    B. Columbia
+    C. Denver
+    D. Lansing
+
+18. Capital of California:
+    A. Olympia
+    B. Carson City
+    C. Indianapolis
+    D. Sacramento
+
+19. Capital of Kentucky:
+    A. Harrisburg
+    B. Frankfort
+    C. Salem
+    D. Raleigh
+
+20. Capital of New Jersey:
+    A. Columbus
+    B. Trenton
+    C. Montgomery
+    D. Richmond
+
+21. Capital of Virginia:
+    A. Boston
+    B. Jefferson City
+    C. Harrisburg
+    D. Richmond
+
+22. Capital of Oklahoma:
+    A. Baton Rouge
+    B. Oklahoma City
+    C. Boston
+    D. Honolulu
+
+23. Capital of Hawaii:
+    A. Des Moines
+    B. Frankfort
+    C. Dover
+    D. Honolulu
+
+24. Capital of Missouri:
+    A. Albany
+    B. Sacramento
+    C. Jefferson City
+    D. Olympia
+
+25. Capital of Idaho:
+    A. Boise
+    B. Boston
+    C. Madison
+    D. Sacramento
+
+26. Capital of Colorado:
+    A. Denver
+    B. Harrisburg
+    C. Lansing
+    D. Salem
+
+27. Capital of Nevada:
+    A. Montpelier
+    B. Carson City
+    C. Denver
+    D. Montgomery
+
+28. Capital of Massachusetts:
+    A. Honolulu
+    B. Boston
+    C. Little Rock
+    D. Des Moines
+
+29. Capital of Connecticut:
+    A. Olympia
+    B. Richmond
+    C. Hartford
+    D. Boston
+
+30. Capital of Wisconsin:
+    A. Carson City
+    B. Madison
+    C. Helena
+    D. Harrisburg
+
+31. Capital of South Carolina:
+    A. Columbia
+    B. Boise
+    C. Salt Lake City
+    D. Saint Paul
+
+32. Capital of Rhode Island:
+    A. Charleston
+    B. Bismarck
+    C. Madison
+    D. Providence
+
+33. Capital of Arkansas:
+    A. Austin
+    B. Salt Lake City
+    C. Little Rock
+    D. Baton Rouge
+
+34. Capital of North Carolina:
+    A. Salem
+    B. Raleigh
+    C. Juneau
+    D. Oklahoma City
+
+35. Capital of Arizona:
+    A. Little Rock
+    B. Salt Lake City
+    C. Tallahassee
+    D. Phoenix
+
+36. Capital of Wyoming:
+    A. Cheyenne
+    B. Frankfort
+    C. Montgomery
+    D. Bismarck
+
+37. Capital of South Dakota:
+    A. Augusta
+    B. Topeka
+    C. Richmond
+    D. Pierre
+
+38. Capital of Tennessee:
+    A. Hartford
+    B. Nashville
+    C. Richmond
+    D. Bismarck
+
+39. Capital of Delaware:
+    A. Bismarck
+    B. Santa Fe
+    C. Juneau
+    D. Dover
+
+40. Capital of Texas:
+    A. Concord
+    B. Austin
+    C. Dover
+    D. Raleigh
+
+41. Capital of Utah:
+    A. Juneau
+    B. Montpelier
+    C. Salt Lake City
+    D. Lansing
+
+42. Capital of Montana:
+    A. Helena
+    B. Montgomery
+    C. Juneau
+    D. Santa Fe
+
+43. Capital of North Dakota:
+    A. Cheyenne
+    B. Phoenix
+    C. Bismarck
+    D. Denver
+
+44. Capital of Alaska:
+    A. Madison
+    B. Juneau
+    C. Santa Fe
+    D. Charleston
+
+45. Capital of Maine:
+    A. Augusta
+    B. Madison
+    C. Raleigh
+    D. Saint Paul
+
+46. Capital of Florida:
+    A. Tallahassee
+    B. Cheyenne
+    C. Sacramento
+    D. Phoenix
+
+47. Capital of Minnesota:
+    A. Sacramento
+    B. Topeka
+    C. Saint Paul
+    D. Indianapolis
+
+48. Capital of Mississippi:
+    A. Austin
+    B. Columbus
+    C. Santa Fe
+    D. Jackson
+
+49. Capital of West Virginia:
+    A. Cheyenne
+    B. Albany
+    C. Providence
+    D. Charleston
+
+50. Capital of Iowa:
+    A. Columbia
+    B. Des Moines
+    C. Raleigh
+    D. Lansing
+
