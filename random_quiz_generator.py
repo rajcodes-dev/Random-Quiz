@@ -68,3 +68,11 @@ for quiz_num in range(35):
 
     states = list(capitals.keys())
     random.shuffle(states)
+
+    for num in range(50):
+        correct_answers = capitals[states[num]]
+        wrong_answers = list(capitals.values())
+        del wrong_answers[wrong_answers.index(correct_answers)]
+        wrong_answers = random.sample(wrong_answers, 3)
+        answers_option = wrong_answers + [correct_answers]
+        random.shuffle(answers_option)
