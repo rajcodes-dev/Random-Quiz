@@ -74,7 +74,9 @@ for quiz_num in range(40):
             quiz_file.write(f"    {'ABCD'[num]}. {options[num]}\n")
         quiz_file.write("\n")
 
+        # writing the correct answer in the answer file
         answer_file.write(f"{ques_num+1}.{'ABCD'[options.index(correct_answer)]}\n")
 
+    # closing file
     quiz_file.close()
     answer_file.close()
