@@ -67,3 +67,14 @@ for quiz_num in range(40):
         wrong_answers = random.sample(wrong_answers, 3)
         options = wrong_answers + [correct_answer]
         random.shuffle(options)
+
+        # writing the questions on the quiz file
+        quiz_file.write(f"{ques_num + 1}. Capital of {states[ques_num]}:\n")
+        for num in range(4):
+            quiz_file.write(f"    {'ABCD'[num]}. {options[num]}\n")
+        quiz_file.write("\n")
+
+        answer_file.write(f"{ques_num+1}.{'ABCD'[options.index(correct_answer)]}\n")
+
+    quiz_file.close()
+    answer_file.close()
