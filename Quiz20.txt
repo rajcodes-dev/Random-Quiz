@@ -8,219 +8,219 @@ Roll no.:
 
                     States Capitals Quiz (Set20)
 
-1. Capital of Puducherry:
-    A. Leh
-    B. Puducherry
-    C. Chandigarh
-    D. Port Blair
-
-2. Capital of Haryana:
-    A. Dehradun
-    B. Dispur
-    C. Chandigarh
-    D. Bhubaneswar
-
-3. Capital of Lakshadweep:
-    A. Gandhinagar
-    B. Patna
-    C. Kavaratti
-    D. Chandigarh
-
-4. Capital of Uttar Pradesh:
-    A. Hyderabad
-    B. Chandigarh
-    C. New Delhi
-    D. Lucknow
-
-5. Capital of Madhya Pradesh:
-    A. Daman
-    B. Dehradun
-    C. Gandhinagar
-    D. Bhopal
-
-6. Capital of Ladakh:
-    A. Leh
-    B. Chandigarh
-    C. Gangtok
-    D. Panaji
-
-7. Capital of Arunachal Pradesh:
-    A. Dispur
+1. Capital of Jammu and Kashmir:
+    A. Kavaratti
     B. Imphal
-    C. Itanagar
-    D. Thiruvananthapuram
-
-8. Capital of Delhi:
-    A. New Delhi
-    B. Lucknow
-    C. Bhubaneswar
-    D. Aizawl
-
-9. Capital of Assam:
-    A. Dispur
-    B. Imphal
-    C. Gandhinagar
-    D. Port Blair
-
-10. Capital of West Bengal:
-    A. Amaravati
-    B. Kolkata
-    C. Kohima
-    D. Leh
-
-11. Capital of Maharashtra:
-    A. Mumbai
-    B. Dispur
-    C. Panaji
-    D. Bhubaneswar
-
-12. Capital of Jharkhand:
-    A. Chandigarh
-    B. Ranchi
-    C. Daman
-    D. Chandigarh
-
-13. Capital of Gujarat:
-    A. Raipur
-    B. Gandhinagar
-    C. Agartala
-    D. Daman
-
-14. Capital of Sikkim:
-    A. Mumbai
-    B. Gangtok
-    C. Lucknow
-    D. Chandigarh
-
-15. Capital of Uttarakhand:
-    A. Amaravati
-    B. Dispur
-    C. Srinagar
-    D. Dehradun
-
-16. Capital of Andhra Pradesh:
-    A. Chandigarh
-    B. Amaravati
-    C. Srinagar
-    D. Daman
-
-17. Capital of Chhattisgarh:
-    A. Itanagar
-    B. Jaipur
-    C. Shimla
-    D. Raipur
-
-18. Capital of Tripura:
-    A. Agartala
-    B. Leh
-    C. Thiruvananthapuram
-    D. Bengaluru
-
-19. Capital of Tamil Nadu:
-    A. Patna
-    B. Chennai
-    C. Dehradun
-    D. Amaravati
-
-20. Capital of Karnataka:
-    A. Panaji
-    B. Gandhinagar
-    C. Chandigarh
-    D. Bengaluru
-
-21. Capital of Odisha:
-    A. Bhubaneswar
-    B. Kavaratti
-    C. Kolkata
-    D. Patna
-
-22. Capital of Telangana:
-    A. Mumbai
-    B. Itanagar
-    C. Hyderabad
-    D. Jaipur
-
-23. Capital of Andaman and Nicobar Islands:
-    A. Port Blair
-    B. Chandigarh
-    C. Kavaratti
-    D. Chandigarh
-
-24. Capital of Goa:
-    A. Imphal
-    B. Agartala
-    C. Panaji
-    D. Leh
-
-25. Capital of Chandigarh:
-    A. Kohima
-    B. Chandigarh
-    C. Leh
-    D. New Delhi
-
-26. Capital of Rajasthan:
-    A. Bhopal
-    B. Jaipur
-    C. Thiruvananthapuram
-    D. Lucknow
-
-27. Capital of Mizoram:
-    A. Mumbai
-    B. Aizawl
-    C. Kolkata
-    D. Panaji
-
-28. Capital of Dadra and Nagar Haveli and Daman and Diu:
-    A. Panaji
-    B. Bengaluru
-    C. Daman
-    D. Dehradun
-
-29. Capital of Himachal Pradesh:
-    A. Shimla
-    B. Leh
-    C. Thiruvananthapuram
-    D. Puducherry
-
-30. Capital of Bihar:
-    A. New Delhi
-    B. Itanagar
     C. Shillong
-    D. Patna
-
-31. Capital of Nagaland:
-    A. Chandigarh
-    B. Mumbai
-    C. Srinagar
-    D. Kohima
-
-32. Capital of Manipur:
-    A. Imphal
-    B. Chandigarh
-    C. Mumbai
-    D. Port Blair
-
-33. Capital of Kerala:
-    A. Chennai
-    B. Chandigarh
-    C. Gangtok
-    D. Thiruvananthapuram
-
-34. Capital of Jammu and Kashmir:
-    A. Dehradun
-    B. Kavaratti
-    C. Ranchi
     D. Srinagar
 
-35. Capital of Meghalaya:
+2. Capital of Himachal Pradesh:
+    A. Itanagar
+    B. Bengaluru
+    C. Shimla
+    D. Imphal
+
+3. Capital of Manipur:
+    A. Imphal
+    B. Port Blair
+    C. Itanagar
+    D. Chandigarh
+
+4. Capital of West Bengal:
     A. Chandigarh
+    B. Bhubaneswar
+    C. Kolkata
+    D. Chandigarh
+
+5. Capital of Goa:
+    A. Panaji
+    B. Thiruvananthapuram
+    C. Imphal
+    D. Srinagar
+
+6. Capital of Tripura:
+    A. Amaravati
+    B. Kavaratti
+    C. Srinagar
+    D. Agartala
+
+7. Capital of Kerala:
+    A. Kolkata
+    B. Itanagar
+    C. Thiruvananthapuram
+    D. Dispur
+
+8. Capital of Andhra Pradesh:
+    A. New Delhi
+    B. Bhubaneswar
+    C. Srinagar
+    D. Amaravati
+
+9. Capital of Puducherry:
+    A. Chennai
+    B. Leh
+    C. Agartala
+    D. Puducherry
+
+10. Capital of Uttar Pradesh:
+    A. Lucknow
     B. Shillong
+    C. Gangtok
+    D. Srinagar
+
+11. Capital of Tamil Nadu:
+    A. Thiruvananthapuram
+    B. Mumbai
+    C. Chennai
+    D. Chandigarh
+
+12. Capital of Punjab:
+    A. Aizawl
+    B. Chandigarh
     C. Chandigarh
+    D. Raipur
+
+13. Capital of Mizoram:
+    A. Srinagar
+    B. Hyderabad
+    C. Aizawl
+    D. Shillong
+
+14. Capital of Madhya Pradesh:
+    A. Kavaratti
+    B. Kohima
+    C. Bhopal
+    D. Itanagar
+
+15. Capital of Dadra and Nagar Haveli and Daman and Diu:
+    A. Dispur
+    B. Raipur
+    C. Daman
+    D. Mumbai
+
+16. Capital of Jharkhand:
+    A. Kavaratti
+    B. Lucknow
+    C. Itanagar
+    D. Ranchi
+
+17. Capital of Maharashtra:
+    A. Bengaluru
+    B. Mumbai
+    C. Shimla
+    D. Port Blair
+
+18. Capital of Chhattisgarh:
+    A. Jaipur
+    B. Bhubaneswar
+    C. Raipur
+    D. Mumbai
+
+19. Capital of Chandigarh:
+    A. Patna
+    B. Chandigarh
+    C. Raipur
+    D. Amaravati
+
+20. Capital of Rajasthan:
+    A. Itanagar
+    B. Hyderabad
+    C. Shillong
+    D. Jaipur
+
+21. Capital of Gujarat:
+    A. Gandhinagar
+    B. Raipur
+    C. Kavaratti
+    D. Leh
+
+22. Capital of Sikkim:
+    A. Chandigarh
+    B. Aizawl
+    C. Chandigarh
+    D. Gangtok
+
+23. Capital of Uttarakhand:
+    A. Dehradun
+    B. Gangtok
+    C. Bhopal
+    D. Ranchi
+
+24. Capital of Telangana:
+    A. New Delhi
+    B. Agartala
+    C. Aizawl
+    D. Hyderabad
+
+25. Capital of Andaman and Nicobar Islands:
+    A. Amaravati
+    B. Patna
+    C. Panaji
+    D. Port Blair
+
+26. Capital of Delhi:
+    A. Dispur
+    B. Shillong
+    C. New Delhi
+    D. Daman
+
+27. Capital of Arunachal Pradesh:
+    A. Patna
+    B. Itanagar
+    C. New Delhi
+    D. Chennai
+
+28. Capital of Meghalaya:
+    A. Aizawl
+    B. Shillong
+    C. Srinagar
+    D. Chandigarh
+
+29. Capital of Haryana:
+    A. Panaji
+    B. Lucknow
+    C. Chandigarh
+    D. Shimla
+
+30. Capital of Lakshadweep:
+    A. Kavaratti
+    B. New Delhi
+    C. Bhubaneswar
+    D. Raipur
+
+31. Capital of Karnataka:
+    A. Imphal
+    B. Lucknow
+    C. Bengaluru
+    D. Amaravati
+
+32. Capital of Nagaland:
+    A. Port Blair
+    B. Leh
+    C. Shillong
     D. Kohima
 
-36. Capital of Punjab:
-    A. Mumbai
-    B. Chandigarh
-    C. Shimla
-    D. Itanagar
+33. Capital of Odisha:
+    A. Shillong
+    B. Patna
+    C. New Delhi
+    D. Bhubaneswar
+
+34. Capital of Bihar:
+    A. Chandigarh
+    B. Patna
+    C. Bhubaneswar
+    D. Hyderabad
+
+35. Capital of Assam:
+    A. Panaji
+    B. Kohima
+    C. Puducherry
+    D. Dispur
+
+36. Capital of Ladakh:
+    A. Jaipur
+    B. Leh
+    C. Amaravati
+    D. Port Blair
 
