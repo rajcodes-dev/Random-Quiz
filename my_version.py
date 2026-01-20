@@ -1,4 +1,5 @@
 """Random quiz generator which generates a quiz of india states capitals."""
+
 import random
 
 # Indian states(36 states, 28 states, 8 union territories)capitals dictionary.
@@ -44,10 +45,25 @@ capitals = {
 
 # I am making 40 quizs so creating 40 quiz files
 for quiz_num in range(40):
-    quiz_file = open(f'Quiz{quiz_num+1}.txt', 'w', encoding='utf-8')
-    answer_file = open(f'Ans{quiz_num+1}.txt', 'w', encoding='utf-8')
+    quiz_file = open(f"Quiz{quiz_num+1}.txt", "w", encoding="utf-8")
+    answer_file = open(f"Ans{quiz_num+1}.txt", "w", encoding="utf-8")
 
     # writing the starting content in my files
     quiz_file.write("\n\nName:\n\nDate:\n\nRoll no.:\n\n")
     quiz_file.write(" " * 20 + f"States Capitals Quiz (Set{quiz_num+1})")
     quiz_file.write("\n\n")
+
+    # States
+    states = list(capitals.keys())
+    random.shuffle(states)
+
+    # writing multiple choice questions into the quiz_file
+    for ques_num in range(36):
+
+        # created options for the quiz questions
+        correct_answer = capitals[states[ques_num]]
+        wrong_answers = list(capitals.values())
+        del wrong_answers[wrong_answers.index(correct_answer)]
+        wrong_answers = random.sample(wrong_answers, 3)
+        options = wrong_answers + [correct_answer]
+        random.shuffle(options)
